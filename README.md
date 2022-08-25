@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ismaillbazri
-- 👀 I’m interested in Web developement
-- 🌱 I’m currently learning Laravel
+- 👀 I’m interested in data science
 - 📫 Linkedin Ismail Lbazri
 
 <!---
